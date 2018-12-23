@@ -1,3 +1,10 @@
+# Please give proper acknowledgment and reference to the original work if using for research
+# The scripts and dataset are resources of a Conference paper
+# Publication Title: 2018 Internation Conference on Sustainable Information Engineering and Technology (SIET)
+# Article Title: EMG Based Control of Individual Fingers of Robotic Hand
+#
+# INSTRUCTIONS FOR USE:
+
 All of the folders contain data, you might want to choose based on what kind you need.
 Some folders contain Raw emg data and some contain extracted features
 Every folder contains more readme files explaining stuff so be sure to read them.
