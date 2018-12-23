@@ -1,4 +1,10 @@
 '''
+# Please give proper acknowledgment and reference to the original work if using for research
+# The scripts and dataset are resources of a Conference paper
+# Publication Title: 2018 Internation Conference on Sustainable Information Engineering and Technology (SIET)
+# Article Title: EMG Based Control of Individual Fingers of Robotic Hand
+#
+# INSTRUCTIONS FOR USE:
 # This is a Neural Network made with pytorch and it uses all 80 features for classification. 
 # You need pytorch and numpy to run it. 
 # You can try out different hidden layer sizes, num_epochs, 
