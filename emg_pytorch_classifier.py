@@ -1,7 +1,7 @@
 '''
 # Please give proper acknowledgment and reference to the original work if using for research
 # The scripts and dataset are resources of a Conference paper
-# Publication Title: 2018 Internation Conference on Sustainable Information Engineering and Technology (SIET)
+# Publication Title: 2018 International Conference on Sustainable Information Engineering and Technology (SIET)
 # Article Title: EMG Based Control of Individual Fingers of Robotic Hand
 #
 # INSTRUCTIONS FOR USE:
